@@ -1,0 +1,8 @@
+#inputID::placeholder {
+    color: black;
+  }
+  
+  .dark-mode #inputID::placeholder {
+    color: white;
+  }
+  
